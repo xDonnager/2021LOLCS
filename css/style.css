@@ -43,6 +43,11 @@
 
   }
 
+  .letsGo img{
+    width: 50%;
+    padding: 10% 20% 20% 20%;
+
+  }
   .letsGo input[type="button"]:hover{
     background-color: #1f2176;
     color:white;
@@ -53,4 +58,13 @@
   /*regla que aplica a todas las card y img*/
 .card, img{
 
+}
+
+
+/* The north remembers*/
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
 }
